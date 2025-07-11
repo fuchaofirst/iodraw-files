@@ -49,7 +49,7 @@
         <mxCell id="UBw2YeXSdfy0k2AnK6cC-15" value="33" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="450" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UBw2YeXSdfy0k2AnK6cC-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UBw2YeXSdfy0k2AnK6cC-16" value="32" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="450" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UBw2YeXSdfy0k2AnK6cC-17" value="Reporter Id&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -64,7 +64,7 @@
         <mxCell id="UBw2YeXSdfy0k2AnK6cC-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="480" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UBw2YeXSdfy0k2AnK6cC-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UBw2YeXSdfy0k2AnK6cC-22" value="IP 编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="480" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UBw2YeXSdfy0k2AnK6cC-23" value="bits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
