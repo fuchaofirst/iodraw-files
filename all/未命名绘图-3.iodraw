@@ -91,7 +91,7 @@
         <mxCell id="BmqsIOUjEGMzAjGesN_T-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="870" y="100" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="BmqsIOUjEGMzAjGesN_T-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BmqsIOUjEGMzAjGesN_T-2" value="SMCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmqsIOUjEGMzAjGesN_T-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -110,7 +110,10 @@
           <mxGeometry x="1040" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmqsIOUjEGMzAjGesN_T-6" value="GPIO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="1040" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BmqsIOUjEGMzAjGesN_T-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
