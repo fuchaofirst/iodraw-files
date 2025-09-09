@@ -121,10 +121,10 @@
         <mxCell id="BmqsIOUjEGMzAjGesN_T-9" value="xx核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="210" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BmqsIOUjEGMzAjGesN_T-10" value="xx核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="240" width="40" height="40" as="geometry" />
+        <mxCell id="BmqsIOUjEGMzAjGesN_T-10" value="3核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="180" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BmqsIOUjEGMzAjGesN_T-11" value="1核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BmqsIOUjEGMzAjGesN_T-11" value="2核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="120" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
