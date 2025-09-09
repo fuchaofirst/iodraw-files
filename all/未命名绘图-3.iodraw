@@ -112,8 +112,8 @@
         <mxCell id="BmqsIOUjEGMzAjGesN_T-6" value="GPIO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BmqsIOUjEGMzAjGesN_T-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="BmqsIOUjEGMzAjGesN_T-7" value="0核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="120" width="35" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
