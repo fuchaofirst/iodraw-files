@@ -115,8 +115,11 @@
         <mxCell id="BmqsIOUjEGMzAjGesN_T-7" value="0核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="120" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BmqsIOUjEGMzAjGesN_T-8" value="0核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BmqsIOUjEGMzAjGesN_T-8" value="1核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="170" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BmqsIOUjEGMzAjGesN_T-9" value="1核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="180" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
