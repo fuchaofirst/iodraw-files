@@ -71,7 +71,7 @@
           <mxGeometry x="60" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UBw2YeXSdfy0k2AnK6cC-24" value="value" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="480" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UBw2YeXSdfy0k2AnK6cC-25" value="位域" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="430" width="60" height="20" as="geometry" />
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-15" value="&lt;b&gt;z自定义&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="480" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-16" value="47" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
