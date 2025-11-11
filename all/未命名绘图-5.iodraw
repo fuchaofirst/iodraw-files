@@ -112,6 +112,9 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-9" value="HSM ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="480" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-10" value="EC/DIR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="560" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
