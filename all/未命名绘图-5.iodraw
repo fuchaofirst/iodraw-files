@@ -76,7 +76,7 @@
         <mxCell id="UBw2YeXSdfy0k2AnK6cC-25" value="位域" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="430" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UBw2YeXSdfy0k2AnK6cC-26" value="Error Code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UBw2YeXSdfy0k2AnK6cC-26" value="Error Code（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="430" width="440" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UBw2YeXSdfy0k2AnK6cC-27" value="63 to 48" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
