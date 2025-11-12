@@ -402,7 +402,7 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-98" value="SystemFailured（3字节）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="1040" y="790" width="100" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-99" value="MaturationState" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-99" value="MaturationState&lt;div&gt;（1字节）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="1140" y="790" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-100" value="xxx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
