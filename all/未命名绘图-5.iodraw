@@ -417,6 +417,9 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-103" value="31 to 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="859" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-104" value="MaturationState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="819" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
