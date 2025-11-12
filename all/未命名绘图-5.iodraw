@@ -130,7 +130,7 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-15" value="&lt;b&gt;自定义&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="480" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-16" value="103~96" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-16" value="111~96" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="450" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-17" value="95 to 88" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -146,7 +146,7 @@
           <mxGeometry x="80" y="480" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-21" value="E2E header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="430" width="240" height="20" as="geometry" />
+          <mxGeometry x="-80" y="430" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-24" value="MsgID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="480" width="80" height="30" as="geometry" />
