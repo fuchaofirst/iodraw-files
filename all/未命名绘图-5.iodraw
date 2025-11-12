@@ -402,11 +402,11 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-117" value="Error Code（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227.37" y="930" width="390" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-118" value="94 to 79" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="227.37" y="973.5" width="82.63" height="30" as="geometry" />
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-118" value="94 to 66" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227.37" y="973.5" width="302.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-119" value="reportID&amp;nbsp; &amp;nbsp;信息填写在此处（代表了IP位置）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="227.37" y="1003.5" width="362.63" height="30" as="geometry" />
+          <mxGeometry x="227.37" y="1003.5" width="292.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-131" value="ErrorAttribute（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="617.37" y="930" width="150" height="43.5" as="geometry" />
@@ -489,7 +489,7 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-157" value="64" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="557.37" y="973.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-159" value="63" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-159" value="65" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="527.37" y="973.5" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
