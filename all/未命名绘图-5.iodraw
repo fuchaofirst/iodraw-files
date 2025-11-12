@@ -246,7 +246,7 @@
           <mxGeometry x="705" y="1061" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-52" value="Reporter Id（2个字节）&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="1041" width="480" height="20" as="geometry" />
+          <mxGeometry x="255" y="1041" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="1091" width="30" height="30" as="geometry" />
