@@ -402,8 +402,8 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-98" value="SystemFailured" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="809" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-99" value="MaturationS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="809" width="100" height="20" as="geometry" />
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-99" value="MaturationState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="809" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
