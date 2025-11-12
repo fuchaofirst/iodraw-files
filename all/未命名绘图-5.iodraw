@@ -418,7 +418,10 @@
           <mxGeometry x="1140" y="859" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-106" value="NV的原来协议" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-301.5" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="-270" y="450" width="101.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-107" value="现在的协议" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="614.5" width="101.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
