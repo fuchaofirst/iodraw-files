@@ -245,7 +245,7 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-51" value="64" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="1061" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-52" value="Reporter Id（2个字节）&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-52" value="Reporter Id&lt;div&gt;（2个字节）&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="900" y="790" width="140" height="39" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -381,7 +381,7 @@
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-91" value="Profile5 Header" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="edwIWSXk1pfgnOlzcmUS-90">
           <mxGeometry x="-0.4702" y="1" relative="1" as="geometry">
-            <mxPoint x="40" as="offset" />
+            <mxPoint x="45" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-92" value="&lt;b&gt;TimeStamp&lt;/b&gt;（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
