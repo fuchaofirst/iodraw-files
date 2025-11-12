@@ -399,9 +399,6 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-115" value="value" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-148.5" y="1003.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-116" value="位域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="934.5" width="61.5" height="35.5" as="geometry" />
-        </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-117" value="Error Code（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227.37" y="934.5" width="390" height="39" as="geometry" />
         </mxCell>
@@ -506,6 +503,9 @@
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-155" value="63" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="587.37" y="973.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-156" value="bits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-148.5" y="934.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
