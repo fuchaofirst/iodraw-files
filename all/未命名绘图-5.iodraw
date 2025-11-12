@@ -312,13 +312,13 @@
           <mxGeometry x="490" y="859" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-74" value="metaData（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620.0000000000001" y="809" width="220" height="20" as="geometry" />
+          <mxGeometry x="620" y="809" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-75" value="31 to 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620.0000000000001" y="829" width="220" height="30" as="geometry" />
+          <mxGeometry x="620" y="829" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-76" value="&lt;b&gt;自定义&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620.0000000000001" y="859" width="220" height="30" as="geometry" />
+          <mxGeometry x="620" y="859" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-77" value="111~96" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-85.87" y="829" width="160" height="30" as="geometry" />
@@ -385,13 +385,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-92" value="时间戳（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840.0000000000001" y="809" width="220" height="20" as="geometry" />
+          <mxGeometry x="770" y="809" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-93" value="31 to 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840.0000000000001" y="829" width="220" height="30" as="geometry" />
+          <mxGeometry x="770" y="829" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-94" value="&lt;b&gt;TimeStamp&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840.0000000000001" y="859" width="220" height="30" as="geometry" />
+          <mxGeometry x="770.0000000000001" y="859" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
