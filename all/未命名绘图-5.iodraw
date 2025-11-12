@@ -384,8 +384,11 @@
             <mxPoint x="40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-92" value="metaData（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680.0000000000001" y="819" width="220" height="20" as="geometry" />
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-92" value="时间戳（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890.0000000000001" y="809" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-93" value="31 to 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890.0000000000001" y="829" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
