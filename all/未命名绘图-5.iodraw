@@ -260,10 +260,10 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-76" value="&lt;b&gt;IP内部dfx信息&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="859" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-77" value="117~102" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-77" value="126~111" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-85.87" y="829" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-78" value="101&amp;nbsp; to 94" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-78" value="110&amp;nbsp; to 103" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="74.13" y="829" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-79" value="102 to 95" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
