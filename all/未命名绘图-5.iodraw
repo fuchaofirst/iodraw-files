@@ -270,7 +270,7 @@
           <mxGeometry x="-145.87" y="809" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-60" value="Error Code（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="809" width="390" height="20" as="geometry" />
+          <mxGeometry x="230" y="790" width="390" height="39" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-61" value="84 to 79" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="829" width="80" height="30" as="geometry" />
@@ -312,7 +312,7 @@
           <mxGeometry x="490" y="859" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-74" value="ErrorAttribute（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="809" width="150" height="20" as="geometry" />
+          <mxGeometry x="620" y="790" width="150" height="39" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-75" value="62 to 31" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="829" width="150" height="30" as="geometry" />
@@ -347,8 +347,8 @@
             <mxPoint x="154.13" y="699" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-85" value="MsgType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="154.13" y="809" width="80" height="20" as="geometry" />
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-85" value="MsgType&lt;div&gt;（1字节）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154.13" y="790" width="80" height="39" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-86" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -403,7 +403,7 @@
           <mxGeometry x="1040" y="790" width="100" height="39" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-99" value="MaturationState" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="809" width="120" height="20" as="geometry" />
+          <mxGeometry x="1140" y="790" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-100" value="xxx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="1040" y="829" width="100" height="30" as="geometry" />
