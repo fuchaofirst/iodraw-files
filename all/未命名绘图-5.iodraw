@@ -197,6 +197,9 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-33" value="字节3~0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="430" width="220" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-34" value="字节4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="650" width="220" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
