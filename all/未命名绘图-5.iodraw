@@ -347,7 +347,7 @@
             <mxPoint x="154.13" y="699" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-85" value="MsgType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-85" value="MsgType（1字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="154.13" y="809" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-86" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -421,7 +421,7 @@
           <mxGeometry x="1260" y="809" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-105" value="31 to 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="839" width="120" height="30" as="geometry" />
+          <mxGeometry x="1260" y="829" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
