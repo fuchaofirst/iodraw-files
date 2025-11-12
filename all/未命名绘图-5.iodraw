@@ -384,7 +384,7 @@
             <mxPoint x="40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-92" value="时间戳（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-92" value="&lt;b&gt;TimeStamp&lt;/b&gt;（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="809" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-93" value="31 to 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
