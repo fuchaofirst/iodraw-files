@@ -408,7 +408,7 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-118" value="94 to 79" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227.37" y="973.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-119" value="保留" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-119" value="reportID&amp;nbsp; &amp;nbsp;信息填写在此处" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227.37" y="1003.5" width="362.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-120" value="78" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -429,7 +429,7 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-125" value="73" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="457.37" y="973.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-126" value="72 to 63" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-126" value="72 to 64" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="487.37" y="973.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-131" value="ErrorAttribute（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -504,8 +504,8 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-154" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;CE/UE&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="587.37" y="1003.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-155" value="73" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="467.37" y="983.5" width="30" height="30" as="geometry" />
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-155" value="63" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="587.37" y="973.5" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
