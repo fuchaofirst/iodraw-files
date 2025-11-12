@@ -400,7 +400,7 @@
           <mxGeometry x="-148.5" y="1003.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-116" value="位域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-148.5" y="953.5" width="60" height="20" as="geometry" />
+          <mxGeometry x="-148.5" y="940" width="60" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-117" value="Error Code（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227.37" y="934.5" width="390" height="39" as="geometry" />
@@ -409,7 +409,7 @@
           <mxGeometry x="227.37" y="973.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-119" value="保留" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="227.37" y="1003.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="227.37" y="1003.5" width="342.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-120" value="78" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="307.37" y="973.5" width="30" height="30" as="geometry" />
@@ -431,9 +431,6 @@
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-126" value="72 to 63" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="487.37" y="973.5" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-127" value="HSM ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307.37" y="1003.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-128" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;EC/DIR&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="427.37" y="1003.5" width="30" height="30" as="geometry" />
@@ -512,6 +509,9 @@
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-153" value="Lauda的协议" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-250" y="969" width="101.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-154" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;CE/UE&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" vertex="1" parent="1">
+          <mxGeometry x="587.37" y="1003.5" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
