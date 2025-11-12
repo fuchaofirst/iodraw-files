@@ -409,7 +409,7 @@
           <mxGeometry x="227.37" y="973.5" width="202.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-119" value="reportID&amp;nbsp; &amp;nbsp;信息填写在此处（代表了IP位置）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="228.87" y="1003.5" width="298.5" height="30" as="geometry" />
+          <mxGeometry x="290" y="1003.5" width="237.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-131" value="ErrorAttribute（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="617.37" y="930" width="150" height="43.5" as="geometry" />
@@ -499,7 +499,7 @@
           <mxGeometry x="450" y="840" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-162" value="81 to 66" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1060" width="60" height="30" as="geometry" />
+          <mxGeometry x="445" y="973.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
