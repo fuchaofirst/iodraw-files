@@ -393,6 +393,15 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-94" value="&lt;b&gt;TimeStamp&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="859" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-96" value="31 to 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="829" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-97" value="31 to 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="859" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-98" value="Reporter Id（2个字节）&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="819" width="140" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
