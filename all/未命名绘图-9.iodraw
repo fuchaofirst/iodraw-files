@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="bLSa3ZFAsSNRhYI9rdfF">
-    <mxGraphModel dx="2755" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1598" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -502,6 +502,57 @@
           <mxGeometry x="4.1299999999999955" y="73.5" width="58.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-160" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
+          <mxGeometry x="300" y="73.5" width="62.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="760" y="1066" width="670" height="103.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-4" value="Error Code（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
+          <mxGeometry width="390" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-5" value="32 to 44" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
+          <mxGeometry y="43.5" width="62.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-6" value="reportID信息填写在此处（代表了IP位置）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
+          <mxGeometry x="62.629999999999995" y="73.5" width="237.37" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-7" value="ErrorAttribute（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
+          <mxGeometry x="390" width="150" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-8" value="64 to 95" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
+          <mxGeometry x="390" y="43.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-9" value="&lt;b&gt;IP内部dfx信息&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
+          <mxGeometry x="390" y="73.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-10" value="&lt;b&gt;TimeStamp&lt;/b&gt;（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
+          <mxGeometry x="540" width="130" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-11" value="96 to 127" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
+          <mxGeometry x="540" y="43.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-12" value="&lt;b&gt;TimeStamp&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
+          <mxGeometry x="540" y="73.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-13" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;CE/UE&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
+          <mxGeometry x="356" y="73.5" width="34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-14" value="63" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
+          <mxGeometry x="360" y="43.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-15" value="62" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
+          <mxGeometry x="330" y="43.5" width="32.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-16" value="61" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
+          <mxGeometry x="300" y="43.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-17" value="45 to 60" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
+          <mxGeometry x="167.63" y="43.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-18" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
+          <mxGeometry x="4.1299999999999955" y="73.5" width="58.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-19" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
           <mxGeometry x="300" y="73.5" width="62.63" height="30" as="geometry" />
         </mxCell>
       </root>
