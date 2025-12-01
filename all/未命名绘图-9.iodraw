@@ -415,7 +415,7 @@
           <mxGeometry x="-252.5" y="1066" width="240" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-140" value="消息ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="1139.5" width="73.75" height="30.5" as="geometry" />
+          <mxGeometry x="-12.879999999999999" y="1139" width="76.25" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-141" value="MsgType&lt;div&gt;（1字节）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-12.5" y="1066" width="80" height="43.5" as="geometry" />
