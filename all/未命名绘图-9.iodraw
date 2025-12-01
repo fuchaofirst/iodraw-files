@@ -582,6 +582,9 @@
         <mxCell id="nMrF0djmt8g36GIlUItB-35" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;故障信息1&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="970" width="122.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-36" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;故障信息2&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="960" width="122.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
