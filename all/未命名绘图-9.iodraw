@@ -423,10 +423,10 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-134" value="0~15" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-88.5" y="973.5" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-135" value="16&amp;nbsp; to 103" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-135" value="16&amp;nbsp; to 23" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="71.5" y="973.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-136" value="102 to 95" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-136" value="24 to 31" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="151.5" y="973.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-137" value="E2E CRC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
