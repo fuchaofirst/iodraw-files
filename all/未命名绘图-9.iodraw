@@ -454,7 +454,7 @@
           <mxGeometry x="-312.5" y="1066" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="nMrF0djmt8g36GIlUItB-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="760" y="1066" width="670" height="103.5" as="geometry" />
+          <mxGeometry x="740" y="1066" width="670" height="103.5" as="geometry" />
         </mxCell>
         <mxCell id="nMrF0djmt8g36GIlUItB-4" value="Error Code（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-3">
           <mxGeometry width="390" height="43.5" as="geometry" />
@@ -556,7 +556,10 @@
           <mxGeometry y="73.5" width="62.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nMrF0djmt8g36GIlUItB-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="95" y="1139.5" width="50" height="120" as="geometry" />
+          <mxGeometry x="370.25" y="864.25" width="50" height="670.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="380.25" y="874.25" width="50" height="670.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
