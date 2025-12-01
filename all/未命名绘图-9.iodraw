@@ -501,11 +501,11 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-163" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry y="73.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nMrF0djmt8g36GIlUItB-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-2">
-          <mxGeometry x="30" y="73.5" width="32.63" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="nMrF0djmt8g36GIlUItB-73" value="34 to&amp;nbsp; 44" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-2">
           <mxGeometry x="62.63" y="43.5" width="57.37" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-74" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-2">
+          <mxGeometry x="62.629999999999995" y="73.5" width="57.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nMrF0djmt8g36GIlUItB-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="68" y="1020" width="662" height="10" as="geometry" />
@@ -524,9 +524,6 @@
         </mxCell>
         <mxCell id="nMrF0djmt8g36GIlUItB-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MsgType&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;0x01：故障消息&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;0x02：周期消息（无故障时回复）&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;0x03： FSI和SOC建链，断链消息&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;0x04： smcu向soc故障注入&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-224.93" y="1230" width="218.12" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="nMrF0djmt8g36GIlUItB-74" value="34 to&amp;nbsp; 44" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1190" width="57.37" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
