@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="bLSa3ZFAsSNRhYI9rdfF">
-    <mxGraphModel dx="1090" dy="125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1956" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,7 +418,7 @@
           <mxGeometry x="-252.5" y="1066" width="240" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-140" value="消息ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
-          <mxGeometry x="-12.5" y="1139.5" width="82.5" height="30.5" as="geometry" />
+          <mxGeometry x="-12.5" y="1139.5" width="72.5" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-141" value="MsgType&lt;div&gt;（1字节）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-12.5" y="1066" width="80" height="43.5" as="geometry" />
@@ -551,6 +551,11 @@
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-160" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="300" y="73.5" width="62.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMrF0djmt8g36GIlUItB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="nMrF0djmt8g36GIlUItB-2" source="edwIWSXk1pfgnOlzcmUS-163">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4.1299999999999955" y="88.5454545454545" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-163" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="4.1299999999999955" y="73.5" width="58.5" height="30" as="geometry" />
