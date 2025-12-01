@@ -444,8 +444,8 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-152" value="删除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="1580" y="859" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-153" value="Lauda的协议" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-414" y="1105" width="101.5" height="30" as="geometry" />
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-153" value="Lauda故障时的协议" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-450" y="1102.75" width="101.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-156" value="bits" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-312.5" y="1066" width="60" height="43.5" as="geometry" />
