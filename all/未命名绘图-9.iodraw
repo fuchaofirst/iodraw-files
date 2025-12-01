@@ -558,8 +558,8 @@
         <mxCell id="nMrF0djmt8g36GIlUItB-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1051.5" y="864.25" width="50" height="670.5" as="geometry" />
         </mxCell>
-        <mxCell id="nMrF0djmt8g36GIlUItB-25" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="970" width="60" height="30" as="geometry" />
+        <mxCell id="nMrF0djmt8g36GIlUItB-25" value="故障信息1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="368.37" y="1230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
