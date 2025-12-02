@@ -558,8 +558,11 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-13" value="bit0~bit3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-124" y="1266.5" width="60" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-14" value="EA ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-14" value="EA故障端口ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-64" y="1223" width="151" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-15" value="EA故障端口ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-54" y="1233" width="151" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
