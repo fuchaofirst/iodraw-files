@@ -552,7 +552,7 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-10" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="127" y="1405.5" width="176.87" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-11" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-11" value="DDR EA&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-8" y="1270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
