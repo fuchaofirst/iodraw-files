@@ -573,9 +573,6 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-38" value="Pin status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425.37" y="1247" width="113.63" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-39" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;bit~bit23&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="498.57142857142844" y="1333.142857142857" width="87" height="36" as="geometry" />
-        </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-40" value="bit24~bit28" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425.37" y="1290.25" width="113.63" height="44" as="geometry" />
         </mxCell>
@@ -593,6 +590,9 @@
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-64" value="bit31" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="1290.5" width="52" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="edwIWSXk1pfgnOlzcmUS-163" target="-qHo4MhaBTPpjYlpYmoy-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
