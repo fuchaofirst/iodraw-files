@@ -493,7 +493,10 @@
           <mxGeometry x="284" y="73.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-119" value="reportID信息填写在此处（代表了IP位置）" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
-          <mxGeometry x="50" y="73.5" width="234" height="30" as="geometry" />
+          <mxGeometry x="-1" y="73.5" width="285" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-162" value="38 to 60" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
+          <mxGeometry x="86.63" y="43.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nMrF0djmt8g36GIlUItB-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="68" y="1020" width="732" height="10" as="geometry" />
@@ -581,9 +584,6 @@
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-64" value="bit31" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="1290.5" width="52" height="43.5" as="geometry" />
-        </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-162" value="38 to 60" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-251" y="1292" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nMrF0djmt8g36GIlUItB-73" value="34 to&amp;nbsp; 37" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-29" y="1219" width="57.37" height="30" as="geometry" />
