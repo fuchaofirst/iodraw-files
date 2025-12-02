@@ -534,7 +534,7 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-4" value="故障时刻时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-48.75" y="1362" width="175.75" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-5" value="子系统识别码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-5" value="reportID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="127" y="1362" width="175.75" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-6" value="bits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -550,7 +550,7 @@
           <mxGeometry x="-49.87" y="1405.5" width="176.87" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-10" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-39.87" y="1415.5" width="176.87" height="43.5" as="geometry" />
+          <mxGeometry x="127" y="1405.5" width="176.87" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
