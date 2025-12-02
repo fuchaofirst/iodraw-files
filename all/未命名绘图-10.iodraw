@@ -570,62 +570,8 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-18" value="bit14~bit23" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="274.37" y="1290.5" width="151" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="73.37" y="1076" width="670" height="103.5" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-20" value="Error Code（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry width="460" height="43.5" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-21" value="32&amp;nbsp; 33" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry y="43.5" width="62.63" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-22" value="reportID信息填写在此处（代表了IP位置）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry x="120" y="73.5" width="234" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-23" value="ErrorAttribute（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry x="454" width="150" height="43.5" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-24" value="64 to 95" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry x="454" y="43.5" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-25" value="&lt;b&gt;IP内部dfx信息&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry x="454" y="73.5" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-26" value="&lt;b&gt;TimeStamp&lt;/b&gt;（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry x="604" width="130" height="43.5" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-27" value="96 to 159" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry x="604" y="43.5" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-28" value="&lt;b&gt;TimeStamp&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry x="604" y="73.5" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-29" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;CE/UE&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry x="410" y="73.5" width="44" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-30" value="63" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry x="414" y="43.5" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-31" value="62" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry x="384" y="43.5" width="32.63" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-32" value="61" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry x="354" y="43.5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-33" value="38 to 60" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry x="221.63" y="43.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-34" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry x="354" y="73.5" width="62.63" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-35" value="Pin status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry y="73.5" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-36" value="34 to&amp;nbsp; 37" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry x="62.63" y="43.5" width="57.37" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-37" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-qHo4MhaBTPpjYlpYmoy-19">
-          <mxGeometry x="62.629999999999995" y="73.5" width="57.37" height="30" as="geometry" />
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-38" value="Pin status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425.37" y="1247" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
