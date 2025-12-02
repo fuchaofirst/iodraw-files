@@ -493,7 +493,7 @@
           <mxGeometry x="284" y="73.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-119" value="reportID信息填写在此处（代表了IP位置）" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
-          <mxGeometry x="61" y="73.5" width="223" height="30" as="geometry" />
+          <mxGeometry x="55" y="73.5" width="229" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-162" value="32 to 59" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="86.63" y="43.5" width="60" height="30" as="geometry" />
