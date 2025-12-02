@@ -553,22 +553,22 @@
           <mxGeometry x="129" y="1500.5" width="176.87" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-12" value="EA ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="111" y="1245" width="60" height="43.5" as="geometry" />
+          <mxGeometry x="63.37" y="1247" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-13" value="bit0~bit3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="111" y="1288.5" width="60" height="43.5" as="geometry" />
+          <mxGeometry x="63.37" y="1290.5" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-14" value="EA故障端口ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="171" y="1245" width="151" height="43.5" as="geometry" />
+          <mxGeometry x="123.37" y="1247" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-15" value="Errctrl ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="322" y="1245" width="151" height="43.5" as="geometry" />
+          <mxGeometry x="274.37" y="1247" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-17" value="bit4~bit13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="171" y="1288.5" width="151" height="43.5" as="geometry" />
+          <mxGeometry x="123.37" y="1290.5" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-18" value="bit14~bit23" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="322" y="1288.5" width="151" height="43.5" as="geometry" />
+          <mxGeometry x="274.37" y="1290.5" width="151" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
