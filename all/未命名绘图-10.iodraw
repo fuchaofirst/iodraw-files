@@ -498,7 +498,7 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-163" value="Pin status" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry y="73.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nMrF0djmt8g36GIlUItB-73" value="34 to&amp;nbsp; 44" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
+        <mxCell id="nMrF0djmt8g36GIlUItB-73" value="34 to&amp;nbsp; 37" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="62.63" y="43.5" width="57.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nMrF0djmt8g36GIlUItB-74" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
@@ -553,7 +553,7 @@
           <mxGeometry x="127" y="1405.5" width="176.87" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-11" value="DDR EA&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-8" y="1270" width="60" height="30" as="geometry" />
+          <mxGeometry x="-302" y="1243" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
