@@ -577,7 +577,7 @@
           <mxGeometry x="498.57142857142844" y="1333.142857142857" width="87" height="36" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-40" value="Pin status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435.37" y="1257" width="113.63" height="44" as="geometry" />
+          <mxGeometry x="425.37" y="1290.25" width="113.63" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
