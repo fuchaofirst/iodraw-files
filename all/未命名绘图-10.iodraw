@@ -586,7 +586,7 @@
           <mxGeometry x="593.63" y="1247" width="52.37" height="43" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-62" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="549" y="1257" width="54.63" height="43" as="geometry" />
+          <mxGeometry x="539" y="1290.25" width="25" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
