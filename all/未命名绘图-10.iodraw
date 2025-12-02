@@ -553,43 +553,43 @@
           <mxGeometry x="129" y="1500.5" width="176.87" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-12" value="EA ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="63.37" y="1247" width="60" height="43.5" as="geometry" />
+          <mxGeometry x="-39.50000000000001" y="1255" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-13" value="bit0~bit3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="63.37" y="1290.5" width="60" height="43.5" as="geometry" />
+          <mxGeometry x="-39.50000000000001" y="1298.5" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-14" value="EA故障端口ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="123.37" y="1247" width="151" height="43.5" as="geometry" />
+          <mxGeometry x="20.5" y="1255" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-15" value="Errctrl ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="274.37" y="1247" width="151" height="43.5" as="geometry" />
+          <mxGeometry x="171.5" y="1255" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-17" value="bit4~bit13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="123.37" y="1290.5" width="151" height="43.5" as="geometry" />
+          <mxGeometry x="20.5" y="1298.5" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-18" value="bit14~bit23" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="274.37" y="1290.5" width="151" height="43.5" as="geometry" />
+          <mxGeometry x="171.5" y="1298.5" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-38" value="Pin status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425.37" y="1247" width="113.63" height="44" as="geometry" />
+          <mxGeometry x="322.5" y="1255" width="113.63" height="44" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-40" value="bit24~bit28" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425.37" y="1290.25" width="113.63" height="44" as="geometry" />
+          <mxGeometry x="322.5" y="1298.25" width="113.63" height="44" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-41" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="539" y="1247" width="91" height="43" as="geometry" />
+          <mxGeometry x="436.13" y="1255" width="91" height="43" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-61" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;CE/UE&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1247" width="52.37" height="43" as="geometry" />
+          <mxGeometry x="527.13" y="1255" width="52.37" height="43" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-62" value="bit29" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="539" y="1290.25" width="45" height="43.75" as="geometry" />
+          <mxGeometry x="436.13" y="1298.25" width="45" height="43.75" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-63" value="bit30" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="584" y="1290.25" width="46" height="43.75" as="geometry" />
+          <mxGeometry x="481.13" y="1298.25" width="46" height="43.75" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-64" value="bit31" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1290.5" width="52" height="43.5" as="geometry" />
+          <mxGeometry x="527.13" y="1298.5" width="52" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-qHo4MhaBTPpjYlpYmoy-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
