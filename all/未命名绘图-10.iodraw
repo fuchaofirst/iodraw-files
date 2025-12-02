@@ -453,8 +453,8 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-117" value="Error Code（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry width="460" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-118" value="32&amp;nbsp; 33" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
-          <mxGeometry y="43.5" width="62.63" height="30" as="geometry" />
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-118" value="59&amp;nbsp; 60" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
+          <mxGeometry x="284" y="43.5" width="71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-131" value="ErrorAttribute（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="454" width="150" height="43.5" as="geometry" />
