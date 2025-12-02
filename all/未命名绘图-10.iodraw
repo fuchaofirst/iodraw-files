@@ -552,6 +552,9 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-10" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="127" y="1405.5" width="176.87" height="43.5" as="geometry" />
         </mxCell>
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-12" value="EA ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-124" y="1223" width="60" height="43.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
