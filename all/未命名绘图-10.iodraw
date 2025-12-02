@@ -528,7 +528,7 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-2" value="CRC校验码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-236.25" y="1362" width="190" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-3" value="CRC校验码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-3" value="IPC功能识别码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-46.25" y="1362" width="190" height="43.5" as="geometry" />
         </mxCell>
       </root>
