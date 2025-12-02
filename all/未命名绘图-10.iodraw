@@ -564,6 +564,9 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-15" value="Errctrl ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="87" y="1223" width="151" height="43.5" as="geometry" />
         </mxCell>
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-17" value="EA故障端口ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-54" y="1233" width="151" height="43.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
