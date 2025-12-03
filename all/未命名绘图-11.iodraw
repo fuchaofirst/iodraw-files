@@ -480,9 +480,6 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-157" value="62" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="384.21205970149254" y="43.081730769230774" width="32.64801955223881" height="29.711538461538463" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-159" value="59" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
-          <mxGeometry x="283.93549253731345" y="44.081730769230774" width="30.016567164179108" height="29.711538461538463" as="geometry" />
-        </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-160" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="384" y="73.79" width="32.86" height="30.21" as="geometry" />
         </mxCell>
@@ -496,10 +493,10 @@
           <mxGeometry x="86.6778404477612" y="43.081730769230774" width="60.033134328358216" height="29.711538461538463" as="geometry" />
         </mxCell>
         <mxCell id="nMrF0djmt8g36GIlUItB-74" value="56~58" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
-          <mxGeometry x="226.75515388059702" y="43.081730769230774" width="57.40168194029851" height="29.711538461538463" as="geometry" />
+          <mxGeometry x="226.76" y="43.08" width="88.24" height="29.71" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-66" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
-          <mxGeometry x="226.75515388059702" y="73.29807692307692" width="57.40168194029851" height="30.701923076923077" as="geometry" />
+          <mxGeometry x="226.76" y="73.3" width="87.24" height="30.7" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-118" value="60&amp;nbsp; 61" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="313.95683582089555" y="44.29173076923075" width="71.03920895522388" height="29.711538461538463" as="geometry" />
