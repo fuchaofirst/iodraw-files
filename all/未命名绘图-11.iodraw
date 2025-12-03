@@ -616,7 +616,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hyHuoZez3OzJxAEaOhuQ-27" value="S:软件故障&lt;div&gt;H:硬件故障&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hyHuoZez3OzJxAEaOhuQ-27" value="软件故障码&lt;div&gt;&lt;div&gt;硬件故障IP dfx信息&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="1181" width="162.5" height="30" as="geometry" />
         </mxCell>
       </root>
