@@ -585,7 +585,7 @@
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-4" value="ErrorAttribute（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="396.19" y="1424" width="176.5" height="40.54" as="geometry" />
         </mxCell>
-        <mxCell id="hyHuoZez3OzJxAEaOhuQ-5" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hyHuoZez3OzJxAEaOhuQ-5" value="bit104~bit167" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="572.7500000000001" y="1465" width="175.87" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-6" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
