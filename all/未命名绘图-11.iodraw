@@ -534,7 +534,7 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-4" value="&lt;b&gt;TimeStamp&lt;/b&gt;（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500.55" y="1425.5" width="175.75" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-5" value="Error Code（4字节）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-5" value="reportID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="147.75" y="1425" width="177" height="44" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-6" value="bits" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
