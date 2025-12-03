@@ -565,22 +565,22 @@
           <mxGeometry x="-77" y="1258" width="619" height="87.25" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-12" value="EA ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
-          <mxGeometry width="60" height="43.5" as="geometry" />
+          <mxGeometry x="35" y="-14" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-13" value="bit0~bit3" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
-          <mxGeometry y="43.5" width="60" height="43.5" as="geometry" />
+          <mxGeometry x="35" y="29.5" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-14" value="EA故障端口ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
-          <mxGeometry x="60.00000000000001" width="151" height="43.5" as="geometry" />
+          <mxGeometry x="95" y="-14" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-15" value="Errctrl ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
-          <mxGeometry x="211" width="151" height="43.5" as="geometry" />
+          <mxGeometry x="246" y="-14" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-17" value="bit4~bit13" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
-          <mxGeometry x="60.00000000000001" y="43.5" width="151" height="43.5" as="geometry" />
+          <mxGeometry x="95" y="29.5" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-18" value="bit14~bit23" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
-          <mxGeometry x="211" y="43.5" width="151" height="43.5" as="geometry" />
+          <mxGeometry x="246" y="29.5" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-4" value="ErrorAttribute（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="601.5699999999999" y="1424.96" width="176.5" height="43.08" as="geometry" />
