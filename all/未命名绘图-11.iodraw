@@ -532,7 +532,7 @@
           <mxGeometry x="572.87" y="1424" width="175.75" height="41" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-5" value="reportID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="219" y="1424" width="177" height="41.46" as="geometry" />
+          <mxGeometry x="219" y="1423" width="177" height="42.46" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-6" value="bits" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-228" y="1465.5" width="60" height="43.5" as="geometry" />
