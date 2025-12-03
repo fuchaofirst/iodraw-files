@@ -579,7 +579,7 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-18" value="bit14~bit23" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
           <mxGeometry x="293" y="30.5" width="151" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="hyHuoZez3OzJxAEaOhuQ-18" value="S:软件故障&lt;div&gt;H:硬件故障&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hyHuoZez3OzJxAEaOhuQ-3">
+        <mxCell id="hyHuoZez3OzJxAEaOhuQ-18" value="00&amp;nbsp; ErrPin无故障状态&lt;div&gt;01 ErrPin 故障状态&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hyHuoZez3OzJxAEaOhuQ-3">
           <mxGeometry x="502" width="162.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-4" value="ErrorAttribute（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
