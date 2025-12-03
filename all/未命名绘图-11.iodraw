@@ -604,7 +604,7 @@
           <mxGeometry x="669.333552238806" y="1066" width="130.07179104477612" height="43.081730769230774" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-16" value="Bit62 是H 代表硬件故障" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-190.5" y="1330" width="162.5" height="30" as="geometry" />
+          <mxGeometry x="422" y="1181" width="162.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
