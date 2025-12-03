@@ -559,7 +559,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-77" y="1258" width="653.5" height="87.25" as="geometry" />
+          <mxGeometry x="-77" y="1258" width="664.5" height="87.25" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-12" value="EA ID&lt;div&gt;（子系统ID）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
           <mxGeometry x="82" y="-13" width="82" height="43.5" as="geometry" />
@@ -578,6 +578,9 @@
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-18" value="bit14~bit23" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
           <mxGeometry x="293" y="30.5" width="151" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hyHuoZez3OzJxAEaOhuQ-18" value="S:软件故障&lt;div&gt;H:硬件故障&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hyHuoZez3OzJxAEaOhuQ-3">
+          <mxGeometry x="502" width="162.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-4" value="ErrorAttribute（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="494.06000000000006" y="1428.5" width="176.5" height="41.54" as="geometry" />
