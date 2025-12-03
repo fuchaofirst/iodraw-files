@@ -531,7 +531,7 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-3" value="IPC功能识别码" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="48.5" y="1425" width="99.25" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-4" value="故障时刻时间戳" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-4" value="&lt;b&gt;TimeStamp&lt;/b&gt;（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500.55" y="1425.5" width="175.75" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-5" value="reportID（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -610,7 +610,7 @@
           <mxGeometry x="323.87" y="1425.46" width="176.5" height="43.08" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-5" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333.68" y="1478.54" width="176.87" height="43.5" as="geometry" />
+          <mxGeometry x="499.43" y="1469" width="176.87" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
