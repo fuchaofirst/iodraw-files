@@ -529,7 +529,7 @@
           <mxGeometry x="-79" y="1422" width="99.25" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-4" value="&lt;b&gt;TimeStamp&lt;/b&gt;（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="572.87" y="1424" width="175.75" height="41" as="geometry" />
+          <mxGeometry x="572.87" y="1423" width="175.75" height="42" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-5" value="reportID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="219" y="1423" width="177" height="42.46" as="geometry" />
@@ -583,7 +583,7 @@
           <mxGeometry x="293" y="30.5" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-4" value="ErrorAttribute（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="396.19" y="1424" width="176.5" height="40.54" as="geometry" />
+          <mxGeometry x="396.19" y="1423" width="176.5" height="41.54" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-5" value="bit104~bit167" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="572.7500000000001" y="1465" width="175.87" height="43.5" as="geometry" />
