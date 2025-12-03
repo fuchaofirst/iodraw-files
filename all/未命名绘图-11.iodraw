@@ -448,7 +448,7 @@
           <mxGeometry x="-312.5" y="1066" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="nMrF0djmt8g36GIlUItB-2" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="65" y="1065" width="670.37" height="104" as="geometry" />
+          <mxGeometry x="65" y="1067" width="670.37" height="104" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-117" value="Error Code（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry width="460.2540298507463" height="43.081730769230774" as="geometry" />
@@ -586,7 +586,7 @@
           <mxGeometry x="530.19" y="1423" width="176.5" height="41.54" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-5" value="bit104~bit167" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="706.7500000000001" y="1465" width="175.87" height="43.5" as="geometry" />
+          <mxGeometry x="-57.999999999999886" y="1470.5" width="175.87" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-6" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="154" y="1422.5" width="99.25" height="43.5" as="geometry" />
