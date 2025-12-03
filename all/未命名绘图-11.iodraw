@@ -486,7 +486,7 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-159" value="61" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="354.19549253731344" y="43.081730769230774" width="30.016567164179108" height="29.711538461538463" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-160" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-160" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="384" y="73.79" width="32.86" height="30.21" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-163" value="Pin status" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
@@ -620,6 +620,9 @@
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-9" value="00 ： 硬件故障" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="87.5" y="1631" width="175.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hyHuoZez3OzJxAEaOhuQ-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;FaultType&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458.99655172413816" y="1180.9979310344827" width="81" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
