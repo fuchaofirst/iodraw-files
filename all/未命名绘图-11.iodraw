@@ -610,7 +610,7 @@
           <mxGeometry x="601.5699999999999" y="1424.96" width="176.5" height="43.08" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-5" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="778.1300000000001" y="1468.5" width="176.87" height="43.5" as="geometry" />
+          <mxGeometry x="778.13" y="1468.5" width="175.87" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-6" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="147.5" y="1425.5" width="99.25" height="43.5" as="geometry" />
