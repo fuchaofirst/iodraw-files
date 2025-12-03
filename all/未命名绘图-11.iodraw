@@ -543,7 +543,7 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-8" value="bit8~bit9" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-79.75" y="1465.5" width="99.75" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-9" value="bit16~bit35" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-9" value="bit16~bit39" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="247" y="1468.5" width="176" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-10" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -601,7 +601,7 @@
           <mxGeometry x="119.5" y="1421.5" width="99.25" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-13" value="bit12~bit15" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="119.25" y="1466" width="99.25" height="43.5" as="geometry" />
+          <mxGeometry x="119.5" y="1465" width="99.25" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
