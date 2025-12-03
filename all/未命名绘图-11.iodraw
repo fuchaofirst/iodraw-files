@@ -595,10 +595,10 @@
           <mxGeometry x="20.25" y="1465" width="99.25" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-9" value="00 ： 硬件故障" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="87.5" y="1631" width="175.5" height="30" as="geometry" />
+          <mxGeometry x="80" y="1626" width="175.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hyHuoZez3OzJxAEaOhuQ-12" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="119.5" y="1422.5" width="99.25" height="43.5" as="geometry" />
+        <mxCell id="hyHuoZez3OzJxAEaOhuQ-12" value="子系统ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119.5" y="1421.5" width="99.25" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
