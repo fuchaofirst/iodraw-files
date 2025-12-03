@@ -501,7 +501,7 @@
         <mxCell id="nMrF0djmt8g36GIlUItB-74" value="56~58" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="226.63" y="43.5" width="57.37" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-66" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nMrF0djmt8g36GIlUItB-2">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-66" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="226.63" y="73" width="57.37" height="31" as="geometry" />
         </mxCell>
         <mxCell id="nMrF0djmt8g36GIlUItB-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
@@ -522,76 +522,76 @@
         <mxCell id="nMrF0djmt8g36GIlUItB-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MsgType&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;0x01：故障消息&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;0x02：周期消息（无故障时回复）&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;0x03： FSI和SOC握手&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;0x04： smcu向soc故障注入&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-614" y="1059.5" width="218.12" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-1" value="位域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-1" value="位域" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-295" y="1457" width="60" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-2" value="CRC校验码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-2" value="CRC校验码" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-234.25" y="1457" width="88.25" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-3" value="IPC功能识别码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-3" value="IPC功能识别码" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-146" y="1457" width="99.25" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-4" value="故障时刻时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-4" value="故障时刻时间戳" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-46.75" y="1457" width="175.75" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-5" value="reportID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-5" value="reportID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="129" y="1457" width="177" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-6" value="bits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-6" value="bits" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-295" y="1500.5" width="60" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-7" value="bit0~bit7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-7" value="bit0~bit7" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-235" y="1500.5" width="88.25" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-8" value="bit8~bit9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-8" value="bit8~bit9" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-146.75" y="1500.5" width="99.75" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-9" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-9" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-47" y="1500.5" width="176" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-10" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-10" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="129" y="1500.5" width="176.87" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-12" value="EA ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-12" value="EA ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-39.50000000000001" y="1255" width="60" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-13" value="bit0~bit3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-13" value="bit0~bit3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-39.50000000000001" y="1298.5" width="60" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-14" value="EA故障端口ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-14" value="EA故障端口ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20.5" y="1255" width="151" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-15" value="Errctrl ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-15" value="Errctrl ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="171.5" y="1255" width="151" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-17" value="bit4~bit13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-17" value="bit4~bit13" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20.5" y="1298.5" width="151" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-18" value="bit14~bit23" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-18" value="bit14~bit23" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="171.5" y="1298.5" width="151" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-38" value="Pin status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-38" value="Pin status" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="322.5" y="1255" width="113.63" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-40" value="bit24~bit28" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-40" value="bit24~bit28" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="322.5" y="1298.25" width="113.63" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-41" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-41" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="436.13" y="1255" width="91" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-61" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;CE/UE&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-61" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;CE/UE&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="527.13" y="1255" width="52.37" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-62" value="bit29" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-62" value="bit29" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="436.13" y="1298.25" width="45" height="43.75" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-63" value="bit30" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-63" value="bit30" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="481.13" y="1298.25" width="46" height="43.75" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-64" value="bit31" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-64" value="bit31" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="527.13" y="1298.5" width="52" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-qHo4MhaBTPpjYlpYmoy-12">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" target="-qHo4MhaBTPpjYlpYmoy-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="62" y="1171" as="sourcePoint" />
             <mxPoint x="180" y="1153" as="targetPoint" />
