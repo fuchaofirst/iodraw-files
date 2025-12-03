@@ -564,7 +564,7 @@
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-3" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-77" y="1258" width="619" height="87.25" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-12" value="EA ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-12" value="EA ID&lt;div&gt;（子系统ID）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
           <mxGeometry x="82" y="-13" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-13" value="bit0~bit3" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
