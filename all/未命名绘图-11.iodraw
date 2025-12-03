@@ -481,7 +481,7 @@
           <mxGeometry x="384" y="71.79" width="32.86" height="30.21" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-163" value="Pin status" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
-          <mxGeometry x="313.95683582089555" y="72.00326923076922" width="70.03865671641792" height="30.20673076923077" as="geometry" />
+          <mxGeometry x="313.96" y="72" width="71.04" height="30.21" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-119" value="reportID信息（代表了IP位置）" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="-0.3605522388059702" y="72.00326923076922" width="227.12535820895525" height="30.20673076923077" as="geometry" />
