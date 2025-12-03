@@ -532,7 +532,7 @@
           <mxGeometry x="48.5" y="1425" width="99.25" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-4" value="故障时刻时间戳" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="147.75" y="1425" width="175.75" height="43.5" as="geometry" />
+          <mxGeometry x="693" y="1359" width="175.75" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-5" value="reportID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="323.5" y="1425" width="177" height="44" as="geometry" />
@@ -607,7 +607,7 @@
           <mxGeometry x="566.63" y="43.5" width="52" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-4" value="ErrorAttribute（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="528.2507164179106" y="1076" width="150.08283582089553" height="43.081730769230774" as="geometry" />
+          <mxGeometry x="147.50071641791055" y="1425.42" width="150.08283582089553" height="43.081730769230774" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
