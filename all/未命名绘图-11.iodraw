@@ -559,7 +559,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-77" y="1258" width="619" height="87.25" as="geometry" />
+          <mxGeometry x="-77" y="1258" width="653.5" height="87.25" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-12" value="EA ID&lt;div&gt;（子系统ID）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
           <mxGeometry x="82" y="-13" width="82" height="43.5" as="geometry" />
@@ -604,10 +604,7 @@
           <mxGeometry x="669.333552238806" y="1066" width="130.07179104477612" height="43.081730769230774" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-16" value="S:软件故障&lt;div&gt;H:硬件故障&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="398.75" y="1180" width="162.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hyHuoZez3OzJxAEaOhuQ-17" value="S:软件故障&lt;div&gt;H:硬件故障&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="408.75" y="1190" width="162.5" height="30" as="geometry" />
+          <mxGeometry x="426" y="1192" width="162.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
