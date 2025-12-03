@@ -606,6 +606,9 @@
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-16" value="S:软件故障&lt;div&gt;H:硬件故障&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="398.75" y="1180" width="162.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hyHuoZez3OzJxAEaOhuQ-17" value="S:软件故障&lt;div&gt;H:硬件故障&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="408.75" y="1190" width="162.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
