@@ -415,7 +415,7 @@
           <mxGeometry x="-252.5" y="1066" width="240" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-140" value="消息ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
-          <mxGeometry x="-12.5" y="1139" width="75.88" height="30.5" as="geometry" />
+          <mxGeometry x="-12.5" y="1139" width="77.5" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-141" value="MsgType&lt;div&gt;（1字节）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-12.5" y="1066" width="80" height="43.5" as="geometry" />
@@ -448,7 +448,7 @@
           <mxGeometry x="-312.5" y="1066" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="nMrF0djmt8g36GIlUItB-2" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="65" y="1067" width="670.37" height="104" as="geometry" />
+          <mxGeometry x="65" y="1065" width="670.37" height="104" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-117" value="Error Code（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry y="-1" width="455" height="43.08" as="geometry" />
