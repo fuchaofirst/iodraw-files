@@ -403,7 +403,7 @@
           <mxGeometry x="-92.5" y="1109.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-136" value="24 to 31" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-12.5" y="1109.5" width="75.5" height="30" as="geometry" />
+          <mxGeometry x="-12.5" y="1109.5" width="77.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-137" value="E2E CRC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="-252.5" y="1139.5" width="160" height="30" as="geometry" />
@@ -415,7 +415,7 @@
           <mxGeometry x="-252.5" y="1066" width="240" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-140" value="消息ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
-          <mxGeometry x="-12.88" y="1139" width="75.88" height="30.5" as="geometry" />
+          <mxGeometry x="-12.5" y="1139" width="75.88" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-141" value="MsgType&lt;div&gt;（1字节）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-12.5" y="1066" width="80" height="43.5" as="geometry" />
