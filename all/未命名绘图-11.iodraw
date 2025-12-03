@@ -483,7 +483,7 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-163" value="Pin status" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="313.96" y="72" width="71.04" height="30.21" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-119" value="reportID信息（代表了IP位置）" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-119" value="reportID信息（代表了故障位置）" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="-0.3605522388059702" y="72.00326923076922" width="227.12535820895525" height="30.20673076923077" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-162" value="32 to 55" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
@@ -592,7 +592,7 @@
           <mxGeometry x="118.12" y="1470.5" width="99.25" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-9" value="00 ：软件CE故障&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;01：软件UE故障&lt;/span&gt;&lt;div&gt;&lt;div&gt;10：硬件CE故障&lt;/div&gt;&lt;div&gt;11：硬件UE故障&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1552" width="175.5" height="68" as="geometry" />
+          <mxGeometry x="8" y="1570" width="175.5" height="68" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-12" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="217.37" y="1428.5" width="99.25" height="42" as="geometry" />
