@@ -612,6 +612,9 @@
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-5" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="622.9300000000001" y="1469" width="176.87" height="43.5" as="geometry" />
         </mxCell>
+        <mxCell id="hyHuoZez3OzJxAEaOhuQ-6" value="IPC功能识别码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="1425.5" width="99.25" height="43.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
