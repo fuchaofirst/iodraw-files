@@ -475,7 +475,7 @@
           <mxGeometry x="604.333552238806" y="72.79326923076923" width="130.07179104477612" height="29.711538461538463" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-154" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;CE/UE&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
-          <mxGeometry x="410.22641791044776" y="72.79326923076923" width="44.02429850746269" height="29.711538461538463" as="geometry" />
+          <mxGeometry x="410.22641791044776" y="73.79326923076923" width="44.02429850746269" height="29.711538461538463" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-155" value="63" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="414.2286268656717" y="43.081730769230774" width="40.02208955223881" height="29.711538461538463" as="geometry" />
@@ -487,10 +487,10 @@
           <mxGeometry x="354.19549253731344" y="43.081730769230774" width="30.016567164179108" height="29.711538461538463" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-160" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
-          <mxGeometry x="354.19549253731344" y="72.79326923076923" width="62.664586716417915" height="30.20673076923077" as="geometry" />
+          <mxGeometry x="354.19549253731344" y="73.79326923076923" width="62.664586716417915" height="30.20673076923077" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-163" value="Pin status" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
-          <mxGeometry x="284.15683582089554" y="72.79326923076923" width="70.03865671641792" height="30.20673076923077" as="geometry" />
+          <mxGeometry x="284.15683582089554" y="73.79326923076923" width="70.03865671641792" height="30.20673076923077" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-119" value="reportID信息（代表了IP位置）" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="-0.0005522388059702177" y="73.79326923076923" width="227.12535820895525" height="30.20673076923077" as="geometry" />
