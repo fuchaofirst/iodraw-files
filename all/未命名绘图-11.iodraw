@@ -561,7 +561,7 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-13" value="bit0~bit3" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
           <mxGeometry x="82" y="30.5" width="75" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-14" value="EA故障端口ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-14" value="EA故障端口ID&lt;div&gt;（硬件故障填写）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
           <mxGeometry x="157" y="-13" width="136" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-15" value="Errctrl ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-3" vertex="1">
@@ -619,7 +619,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-24" value="硬件故障填写" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="96" y="1201" width="60" height="30" as="geometry" />
+          <mxGeometry x="120" y="1336" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
