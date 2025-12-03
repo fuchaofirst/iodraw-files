@@ -448,7 +448,7 @@
           <mxGeometry x="-312.5" y="1066" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="nMrF0djmt8g36GIlUItB-2" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="64" y="1066" width="670.37" height="103" as="geometry" />
+          <mxGeometry x="63" y="1064" width="670.37" height="103" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-117" value="Error Code（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry width="460.2540298507463" height="43.081730769230774" as="geometry" />
