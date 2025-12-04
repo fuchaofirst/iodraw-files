@@ -544,10 +544,10 @@
           <mxGeometry x="43.75999999999999" y="1592.5" width="177.25" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-10" value="bit40~bit103" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="495.87" y="1592.04" width="176.87" height="43.5" as="geometry" />
+          <mxGeometry x="220.76" y="1592.96" width="176.87" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-4" value="ErrorAttribute（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="496.06000000000006" y="1550.5" width="176.5" height="41.54" as="geometry" />
+          <mxGeometry x="220.76000000000005" y="1549.98" width="176.5" height="41.54" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-5" value="bit16~bit79" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="765" y="1610.25" width="175.87" height="43" as="geometry" />
