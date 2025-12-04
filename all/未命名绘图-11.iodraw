@@ -531,7 +531,7 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-7" value="bit0~bit7" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-244" y="1592.5" width="88.25" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-8" value="bit8~bit15" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-8" value="bit8~bit10" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-155.75" y="1592.5" width="99.75" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-6" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
