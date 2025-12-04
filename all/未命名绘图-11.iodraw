@@ -525,12 +525,6 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-3" value="IPC功能识别码" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-155.25" y="1549" width="99.25" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-4" value="&lt;b&gt;TimeStamp&lt;/b&gt;（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="397.63" y="1549.98" width="175.75" height="43.25" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-5" value="reportID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="43.75999999999999" y="1549.58" width="177" height="42.46" as="geometry" />
-        </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-6" value="bits" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-304" y="1592.5" width="60" height="43.5" as="geometry" />
         </mxCell>
@@ -539,18 +533,6 @@
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-8" value="bit8~bit15" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-155.75" y="1592.5" width="99.75" height="43.5" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-9" value="bit16~bit39" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="43.75999999999999" y="1592.5" width="177.25" height="43.5" as="geometry" />
-        </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-10" value="bit40~bit103" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220.76" y="1592.96" width="176.87" height="43.5" as="geometry" />
-        </mxCell>
-        <mxCell id="hyHuoZez3OzJxAEaOhuQ-4" value="ErrorAttribute（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220.76000000000005" y="1549.98" width="176.5" height="41.54" as="geometry" />
-        </mxCell>
-        <mxCell id="hyHuoZez3OzJxAEaOhuQ-5" value="bit16~bit79" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="397.63" y="1593.46" width="175.87" height="43" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-6" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-55.49000000000001" y="1548.54" width="99.25" height="43.5" as="geometry" />
@@ -562,10 +544,10 @@
           <mxGeometry x="-52.75" y="1653.25" width="175.5" height="68" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-12" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="1690" width="99.25" height="42.5" as="geometry" />
+          <mxGeometry x="494" y="1754" width="99.25" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-13" value="bit12~bit15" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="1646.5" width="99.25" height="43.5" as="geometry" />
+          <mxGeometry x="652" y="1721.25" width="99.25" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-142" value="&lt;b&gt;TimeStamp&lt;/b&gt;（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="669.333552238806" y="1066" width="130.07179104477612" height="43.081730769230774" as="geometry" />
@@ -609,6 +591,27 @@
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-18" value="bit14~bit23" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="1374.5" width="151" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hyHuoZez3OzJxAEaOhuQ-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="43.75999999999999" y="1549.58" width="529.74" height="86.88000000000011" as="geometry" />
+        </mxCell>
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-4" value="&lt;b&gt;TimeStamp&lt;/b&gt;（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-29" vertex="1">
+          <mxGeometry x="353.87" y="0.40000000000009095" width="175.75" height="43.25" as="geometry" />
+        </mxCell>
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-5" value="reportID" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-29" vertex="1">
+          <mxGeometry width="177" height="42.46" as="geometry" />
+        </mxCell>
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-9" value="bit16~bit39" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-29" vertex="1">
+          <mxGeometry y="42.92000000000007" width="177.25" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-10" value="bit40~bit103" style="rounded=0;whiteSpace=wrap;html=1;" parent="hyHuoZez3OzJxAEaOhuQ-29" vertex="1">
+          <mxGeometry x="177" y="43.38000000000011" width="176.87" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hyHuoZez3OzJxAEaOhuQ-4" value="ErrorAttribute（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hyHuoZez3OzJxAEaOhuQ-29">
+          <mxGeometry x="177.00000000000006" y="0.40000000000009095" width="176.5" height="41.54" as="geometry" />
+        </mxCell>
+        <mxCell id="hyHuoZez3OzJxAEaOhuQ-5" value="bit16~bit79" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hyHuoZez3OzJxAEaOhuQ-29">
+          <mxGeometry x="353.87" y="43.88000000000011" width="175.87" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
