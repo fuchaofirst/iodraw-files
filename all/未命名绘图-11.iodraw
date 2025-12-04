@@ -610,6 +610,9 @@
         <mxCell id="hyHuoZez3OzJxAEaOhuQ-5" value="bit16~bit79" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="143" y="1592.96" width="175.87" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="hyHuoZez3OzJxAEaOhuQ-31" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235.37" y="1732.0000000000002" width="99.25" height="42.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
