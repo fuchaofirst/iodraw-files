@@ -526,7 +526,7 @@
           <mxGeometry x="-155.25" y="1549" width="99.25" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-4" value="&lt;b&gt;TimeStamp&lt;/b&gt;（8个字节）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-56" y="1549.75" width="175.75" height="43.25" as="geometry" />
+          <mxGeometry x="765" y="1567" width="175.75" height="43.25" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-5" value="reportID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="318.87" y="1550.5" width="177" height="42.46" as="geometry" />
