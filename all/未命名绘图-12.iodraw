@@ -621,6 +621,9 @@
         <mxCell id="eW-z4bZa5Dl3onsT6mps-8" value="产生/恢复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305.87" y="1457" width="72.13" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="eW-z4bZa5Dl3onsT6mps-9" value="产生/恢复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="306" y="1501" width="72.13" height="43" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
