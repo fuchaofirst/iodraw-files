@@ -601,7 +601,7 @@
           <mxGeometry x="377" y="1457" width="106" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="eW-z4bZa5Dl3onsT6mps-2" value="bit82~bit87" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="406" y="1500.5" width="76.74" height="43.5" as="geometry" />
+          <mxGeometry x="377" y="1500.5" width="105.74" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="eW-z4bZa5Dl3onsT6mps-3" value="reportID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="483" y="1457" width="177" height="43.5" as="geometry" />
@@ -617,6 +617,9 @@
         </mxCell>
         <mxCell id="eW-z4bZa5Dl3onsT6mps-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;bit83~bit87&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234.75862068965534" y="1655.241379310345" width="87" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="eW-z4bZa5Dl3onsT6mps-8" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="1586" width="106" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
