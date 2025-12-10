@@ -600,6 +600,9 @@
         <mxCell id="eW-z4bZa5Dl3onsT6mps-1" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="306" y="1457" width="177" height="43.5" as="geometry" />
         </mxCell>
+        <mxCell id="eW-z4bZa5Dl3onsT6mps-2" value="bit80~bit81" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305.87" y="1500.5" width="176.87" height="43.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
