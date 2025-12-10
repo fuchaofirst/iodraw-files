@@ -612,8 +612,8 @@
         <mxCell id="eW-z4bZa5Dl3onsT6mps-5" value="ErrorAttribute（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="659.61" y="1457" width="150" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="eW-z4bZa5Dl3onsT6mps-6" value="bit88~bit111" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1500.5" width="176.87" height="43.5" as="geometry" />
+        <mxCell id="eW-z4bZa5Dl3onsT6mps-6" value="bit112~bit175" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1500.5" width="149" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
