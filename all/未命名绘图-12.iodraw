@@ -619,7 +619,7 @@
           <mxGeometry x="234.75862068965534" y="1655.241379310345" width="87" height="36" as="geometry" />
         </mxCell>
         <mxCell id="eW-z4bZa5Dl3onsT6mps-8" value="产生/恢复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="1586" width="69" height="32" as="geometry" />
+          <mxGeometry x="305.87" y="1457" width="72.13" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
