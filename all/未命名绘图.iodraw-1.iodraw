@@ -19,6 +19,9 @@
         <mxCell id="y8TNlAvmGAtK8w3AO7JO-4" value="FSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="y8TNlAvmGAtK8w3AO7JO-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
