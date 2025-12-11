@@ -564,7 +564,7 @@
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-15" value="Errctrl ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="171.5" y="1255" width="151" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="-qHo4MhaBTPpjYlpYmoy-17" value="bit4~bit1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-qHo4MhaBTPpjYlpYmoy-17" value="bit4~bit13" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20.5" y="1298.5" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-18" value="bit14~bit23" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
