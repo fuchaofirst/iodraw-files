@@ -553,19 +553,19 @@
           <mxGeometry x="129" y="1500.5" width="176.87" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-12" value="EA ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-39.50000000000001" y="1255" width="60" height="43.5" as="geometry" />
+          <mxGeometry x="-126" y="1255.25" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-13" value="bit0~bit3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-39.50000000000001" y="1298.5" width="60" height="43.5" as="geometry" />
+          <mxGeometry x="-126" y="1298.75" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-14" value="EA故障端口ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20.5" y="1255" width="151" height="43.5" as="geometry" />
+          <mxGeometry x="-66" y="1255.25" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-15" value="Errctrl ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="171.5" y="1255" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-17" value="bit4~bit12" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20.5" y="1298.5" width="151" height="43.5" as="geometry" />
+          <mxGeometry x="-66" y="1298.75" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-18" value="bit14~bit23" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="171.5" y="1298.5" width="151" height="43.5" as="geometry" />
@@ -593,6 +593,9 @@
         </mxCell>
         <mxCell id="yY84hOtm47ZvHJvFZJId-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-485" y="205" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yY84hOtm47ZvHJvFZJId-2" value="EA故障端口ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-56" y="1265.25" width="151" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
