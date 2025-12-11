@@ -594,8 +594,8 @@
         <mxCell id="yY84hOtm47ZvHJvFZJId-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-485" y="205" width="40" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yY84hOtm47ZvHJvFZJId-2" value="EA故障端口ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-56" y="1265.25" width="151" height="43.5" as="geometry" />
+        <mxCell id="yY84hOtm47ZvHJvFZJId-2" value="bit13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1362" width="64" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
