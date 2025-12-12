@@ -690,10 +690,10 @@
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-64" value="Errctrl ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9.5" y="1866.5" width="151" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-65" value="bit4~bit12" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-65" value="9bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-227.63" y="1945.5" width="151" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-66" value="9bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-66" value="10bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9.87" y="1946" width="151" height="44" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-74" value="1bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
