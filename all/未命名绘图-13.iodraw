@@ -751,7 +751,7 @@
           <mxGeometry x="-34" y="2026.5" width="176" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-133" value="故障时刻时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="142" y="1983" width="236" height="43.5" as="geometry" />
+          <mxGeometry x="142" y="1983" width="218" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-134" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="141.75" y="2026.5" width="215.25" height="43.5" as="geometry" />
@@ -767,6 +767,9 @@
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-138" value="初始化结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="286" y="2026.5" width="74" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-139" value="故障时刻时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="1993" width="218" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
