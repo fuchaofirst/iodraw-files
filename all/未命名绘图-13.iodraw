@@ -766,7 +766,7 @@
           <mxGeometry x="199.37" y="2026.5" width="86.88" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-138" value="初始化结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="2123" width="74" height="30" as="geometry" />
+          <mxGeometry x="286" y="2026.5" width="74" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
