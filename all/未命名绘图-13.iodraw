@@ -678,30 +678,6 @@
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-110" value="字节7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r9MwDRFAXOaQ_HNY-FL4-42">
           <mxGeometry x="226" y="43.5" width="228" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-61" value="EA ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-226.5" y="1973.25" width="60" height="43.5" as="geometry" />
-        </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-62" value="4bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-226.5" y="2016.5" width="60" height="43.5" as="geometry" />
-        </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-63" value="EA故障端口ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-166.5" y="1973.25" width="151" height="43.5" as="geometry" />
-        </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-64" value="Errctrl ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="71" y="1973.5" width="151" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-65" value="9bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-166.5" y="2016.5" width="151" height="43.5" as="geometry" />
-        </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-66" value="10bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="71" y="2017" width="151" height="43.5" as="geometry" />
-        </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-74" value="1bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-15.5" y="2016.75" width="86" height="43.5" as="geometry" />
-        </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-75" value="是否Errctrl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-15.5" y="1973.5" width="86" height="43.5" as="geometry" />
-        </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-59" value="7~5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314.5" y="1815" width="57.37" height="30" as="geometry" />
         </mxCell>
@@ -716,12 +692,6 @@
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-52" value="0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="504" y="1815" width="37.87" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-111" value="位域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-286.5" y="1973" width="60" height="43.5" as="geometry" />
-        </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-112" value="位宽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-286.5" y="2016.5" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-114" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;位宽&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="281" y="1819.0014285714285" width="52" height="36" as="geometry" />
@@ -757,28 +727,28 @@
           <mxGeometry x="534" y="1501" width="150" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-125" value="位域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-288" y="2115" width="60" height="43.5" as="geometry" />
+          <mxGeometry x="-282" y="1983" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-126" value="CRC校验码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-227.25" y="2115" width="88.25" height="43.5" as="geometry" />
+          <mxGeometry x="-221.25" y="1983" width="88.25" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-127" value="IPC功能识别码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-139" y="2115" width="99.25" height="43.5" as="geometry" />
+          <mxGeometry x="-133" y="1983" width="99.25" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-128" value="故障时刻时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-39.75" y="2115" width="175.75" height="43.5" as="geometry" />
+          <mxGeometry x="-33.75" y="1983" width="175.75" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-129" value="字节序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-288" y="2158.5" width="60" height="43.5" as="geometry" />
+          <mxGeometry x="-282" y="2026.5" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-130" value="字节0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-228" y="2158.5" width="88.25" height="43.5" as="geometry" />
+          <mxGeometry x="-222" y="2026.5" width="88.25" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-131" value="字节1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-139.75" y="2158.5" width="99.75" height="43.5" as="geometry" />
+          <mxGeometry x="-133.75" y="2026.5" width="99.75" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-132" value="字节2~9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="2158.5" width="176" height="43.5" as="geometry" />
+          <mxGeometry x="-34" y="2026.5" width="176" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
