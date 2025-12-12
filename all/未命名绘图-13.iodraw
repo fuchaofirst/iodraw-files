@@ -735,6 +735,36 @@
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-75" value="是否Errctrl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-77" y="1866" width="86" height="43.5" as="geometry" />
         </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-86" value="位域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-288" y="1990" width="60" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-87" value="CRC校验码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-227.25" y="1990" width="88.25" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-88" value="IPC功能识别码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-139" y="1990" width="99.25" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-89" value="故障时刻时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-39.75" y="1990" width="175.75" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-90" value="reportID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136" y="1990" width="177" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-91" value="bits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-288" y="2033.5" width="60" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-92" value="bit0~bit7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-228" y="2033.5" width="88.25" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-93" value="bit8~bit9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-139.75" y="2033.5" width="99.75" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-94" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="2033.5" width="176" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-95" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136" y="2033.5" width="176.87" height="43.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
