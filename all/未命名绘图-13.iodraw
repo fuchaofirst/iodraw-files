@@ -753,7 +753,7 @@
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-95" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="136" y="2033.5" width="176.87" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-59" value="56~58" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-59" value="7~5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314.5" y="1815" width="57.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-44" value="4&amp;nbsp; &amp;nbsp;3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
