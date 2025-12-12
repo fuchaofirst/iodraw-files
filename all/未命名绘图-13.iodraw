@@ -750,6 +750,9 @@
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-132" value="字节2~9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-34" y="2026.5" width="176" height="43.5" as="geometry" />
         </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-133" value="故障时刻时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-23.75" y="1993" width="175.75" height="43.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
