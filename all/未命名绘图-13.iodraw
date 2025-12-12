@@ -550,7 +550,7 @@
           <mxGeometry x="-47" y="1500.5" width="176" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-10" value="2bit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="129" y="1501" width="91" height="43.5" as="geometry" />
+          <mxGeometry x="136" y="1560" width="91" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-12" value="EA ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-126" y="1255.25" width="60" height="43.5" as="geometry" />
@@ -770,6 +770,9 @@
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-119" value="2bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227" y="1560" width="91" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-120" value="2bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="1560" width="91" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
