@@ -696,29 +696,11 @@
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-66" value="bit14~bit23" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9.87" y="1946" width="151" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-67" value="Pin status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160.5" y="1866.5" width="113.63" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-68" value="bit24~bit28" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160.87" y="1946.25" width="113.63" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-69" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="274.13" y="1866.5" width="91" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-71" value="bit29" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="274.5" y="1946.25" width="45" height="43.75" as="geometry" />
-        </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-72" value="bit30" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="319.5" y="1946.25" width="46" height="43.75" as="geometry" />
-        </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-73" value="bit31" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365.5" y="1946.5" width="52" height="43.5" as="geometry" />
-        </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-74" value="bit13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-76.63" y="1945.75" width="86" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-75" value="是否Errctrl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-77" y="1866" width="86" height="43.5" as="geometry" />
+          <mxGeometry x="-77" y="1867" width="86" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-86" value="位域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-286.5" y="2083" width="60" height="43.5" as="geometry" />
