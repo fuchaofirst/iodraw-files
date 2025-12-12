@@ -688,7 +688,7 @@
           <mxGeometry x="-228" y="1866.75" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-64" value="Errctrl ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9.5" y="1866.5" width="151" height="43.5" as="geometry" />
+          <mxGeometry x="9.5" y="1867" width="151" height="43" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-65" value="9bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-228" y="1910" width="151" height="43.5" as="geometry" />
