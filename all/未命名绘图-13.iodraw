@@ -777,7 +777,7 @@
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-141" value="1bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="286.25" y="2070" width="74.75" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-142" value="附加信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-142" value="字节11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="2026" width="218" height="43.5" as="geometry" />
         </mxCell>
       </root>
