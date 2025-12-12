@@ -757,28 +757,28 @@
           <mxGeometry x="534" y="1501" width="150" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-125" value="位域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-284" y="2236" width="60" height="43.5" as="geometry" />
+          <mxGeometry x="-288" y="2115" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-126" value="CRC校验码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-223.25" y="2236" width="88.25" height="43.5" as="geometry" />
+          <mxGeometry x="-227.25" y="2115" width="88.25" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-127" value="IPC功能识别码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-135" y="2236" width="99.25" height="43.5" as="geometry" />
+          <mxGeometry x="-139" y="2115" width="99.25" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-128" value="故障时刻时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-35.75" y="2236" width="175.75" height="43.5" as="geometry" />
+          <mxGeometry x="-39.75" y="2115" width="175.75" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-129" value="字节序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-284" y="2279.5" width="60" height="43.5" as="geometry" />
+          <mxGeometry x="-288" y="2158.5" width="60" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-130" value="字节0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-224" y="2279.5" width="88.25" height="43.5" as="geometry" />
+          <mxGeometry x="-228" y="2158.5" width="88.25" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-131" value="字节1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-135.75" y="2279.5" width="99.75" height="43.5" as="geometry" />
+          <mxGeometry x="-139.75" y="2158.5" width="99.75" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-132" value="字节2~9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-36" y="2279.5" width="176" height="43.5" as="geometry" />
+          <mxGeometry x="-40" y="2158.5" width="176" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
