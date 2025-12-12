@@ -774,13 +774,13 @@
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-120" value="5bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311.13" y="1544.5" width="91" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-121" value="字节11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-121" value="字节10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="129" y="1501" width="273" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-122" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;位宽&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="92" y="1552.0014285714285" width="52" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-123" value="字节12~字节14" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-123" value="字节11~字节13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="402.13" y="1501" width="131.87" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-124" value="字节15~字节18" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
