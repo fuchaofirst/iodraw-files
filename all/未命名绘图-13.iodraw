@@ -606,7 +606,7 @@
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-32" value="value" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-288" y="1784.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-33" value="0~15" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-33" value="字节0-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-228" y="1754.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-34" value="16&amp;nbsp; to 23" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
