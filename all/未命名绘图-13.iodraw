@@ -768,6 +768,9 @@
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-118" value="ErrorAttribute（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534" y="1457.5" width="150" height="43.5" as="geometry" />
         </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-119" value="2bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227" y="1560" width="91" height="43.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
