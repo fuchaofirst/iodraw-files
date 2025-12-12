@@ -771,8 +771,11 @@
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-139" value="附加信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1982.5" width="218" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-140" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-140" value="4bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="199.37" y="2072.5" width="86.88" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-141" value="4bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286.25" y="2072.5" width="86.88" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
