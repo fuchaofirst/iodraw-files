@@ -550,7 +550,7 @@
           <mxGeometry x="-47" y="1500.5" width="176" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-10" value="bit10~bit73" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="456" y="1500.5" width="176.87" height="43.5" as="geometry" />
+          <mxGeometry x="426" y="1558" width="176.87" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="-qHo4MhaBTPpjYlpYmoy-12" value="EA ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-126" y="1255.25" width="60" height="43.5" as="geometry" />
@@ -764,6 +764,9 @@
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-117" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="1457.5" width="91" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-118" value="ErrorAttribute（4个字节）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="527.37" y="1076" width="150" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
