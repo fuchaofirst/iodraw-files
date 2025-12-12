@@ -720,7 +720,7 @@
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-91" value="bits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-286.5" y="2126.5" width="60" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-92" value="字节1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-92" value="bit0~bit7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-226.5" y="2126.5" width="88.25" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-93" value="bit8~bit9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
