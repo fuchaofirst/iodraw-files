@@ -748,7 +748,10 @@
           <mxGeometry x="504" y="1815" width="37.87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-111" value="位域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-278" y="1721" width="60" height="43.5" as="geometry" />
+          <mxGeometry x="-348" y="1866.5" width="60" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MwDRFAXOaQ_HNY-FL4-112" value="位域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-348" y="1910" width="60" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
