@@ -760,10 +760,10 @@
           <mxGeometry x="77" y="2076.0014285714287" width="52" height="36" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-136" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="141.75" y="2070" width="57.37" height="30" as="geometry" />
+          <mxGeometry x="142" y="2026" width="57.37" height="44" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-137" value="子系统识别码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="199.12" y="2070" width="86.88" height="30" as="geometry" />
+          <mxGeometry x="199.37" y="2026.5" width="86.88" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="r9MwDRFAXOaQ_HNY-FL4-138" value="初始化结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320.63" y="2070" width="57.37" height="30" as="geometry" />
