@@ -402,7 +402,7 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-135" value="字节2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-92.5" y="1109.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-136" value="24 to 31" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-136" value="字节3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-12.5" y="1109.5" width="75.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edwIWSXk1pfgnOlzcmUS-137" value="E2E CRC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
@@ -495,7 +495,7 @@
         <mxCell id="edwIWSXk1pfgnOlzcmUS-119" value="reportID信息填写在此处（代表了IP位置）" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="-1" y="73.5" width="227" height="30.5" as="geometry" />
         </mxCell>
-        <mxCell id="edwIWSXk1pfgnOlzcmUS-162" value="32 to 55" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
+        <mxCell id="edwIWSXk1pfgnOlzcmUS-162" value="字节4~6" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
           <mxGeometry x="86.63" y="43.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nMrF0djmt8g36GIlUItB-74" value="56~58" style="rounded=0;whiteSpace=wrap;html=1;" parent="nMrF0djmt8g36GIlUItB-2" vertex="1">
