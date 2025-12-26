@@ -597,8 +597,8 @@
             <mxPoint x="180" y="1153" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EsXcHiSpI7ZBwF9V9Hyf-1" value="FaultType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="348" y="1169" width="91" height="43" as="geometry" />
+        <mxCell id="EsXcHiSpI7ZBwF9V9Hyf-1" value="字节7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="1169" width="169" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
