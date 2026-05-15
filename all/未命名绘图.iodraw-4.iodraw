@@ -7,8 +7,11 @@
         <mxCell id="fFo3r9EX7fU3geUmyXbU-1" value="陈龙" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fFo3r9EX7fU3geUmyXbU-2" value="陈龙" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fFo3r9EX7fU3geUmyXbU-2" value="陈光" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFo3r9EX7fU3geUmyXbU-3" value="王乃岩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
