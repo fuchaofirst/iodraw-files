@@ -22,8 +22,8 @@
         <mxCell id="fFo3r9EX7fU3geUmyXbU-7" value="XLA+世界大模型，偏预研" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="210" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fFo3r9EX7fU3geUmyXbU-8" value="XLA+世界大模型，偏预研" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="220" width="120" height="70" as="geometry" />
+        <mxCell id="fFo3r9EX7fU3geUmyXbU-8" value="XLA+传统模型，已量产" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
