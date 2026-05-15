@@ -23,10 +23,10 @@
           <mxGeometry x="130" y="210" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fFo3r9EX7fU3geUmyXbU-8" value="XLA+传统模型，已量产" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="210" width="120" height="70" as="geometry" />
+          <mxGeometry x="310" y="210" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fFo3r9EX7fU3geUmyXbU-9" value="专注L3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="210" width="120" height="70" as="geometry" />
+          <mxGeometry x="510" y="210" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
